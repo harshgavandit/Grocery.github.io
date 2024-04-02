@@ -1,0 +1,51 @@
+[
+    {
+    "id":1,
+    "name":"Mayank",
+    "Age":30,
+    "Contact":9123456754
+    },
+    {
+        "id":2,
+        "name":"Manish",
+        "Age":32,
+        "Contact":9123456754
+        },
+
+        {
+            "id":3,
+            "name":"Manav",
+            "Age":35,
+            "Contact":9123456754
+            },
+
+            {
+                "id":4,
+                "name":"Manas",
+                "Age":38,
+                "Contact":9123456754
+                },
+
+                {
+                    "id":5,
+                    "name":"Ashish",
+                    "Age":40,
+                    "Contact":9123456754
+                    },
+
+                    {
+                        "id":6,
+                        "name":"Arnab",
+                        "Age":42,
+                        "Contact":9123456754
+                        },
+
+                        {
+                            "id":7,
+                            "name":"Harshit",
+                            "Age":45,
+                            "Contact":9123456754
+                            }
+
+                            
+]
